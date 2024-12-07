@@ -1,0 +1,77 @@
+{
+  "login": {
+    "title": "Acceso Administrativo",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "submit": "Iniciar sesión",
+    "invalidCredentials": "Correo o contraseña inválidos",
+    "error": "Error al iniciar sesión. Inténtalo de nuevo."
+  },
+  "dashboard": {
+    "title": "Panel",
+    "welcome": "Bienvenido a CRM Moderno"
+  },
+  "menu": {
+    "dashboard": "Panel",
+    "contacts": "Contactos",
+    "deals": "Negocios",
+    "orders": "Pedidos",
+    "tasks": "Tareas",
+    "analytics": "Análisis",
+    "financial": "Financiero"
+  },
+  "notifications": {
+    "title": "Notificaciones",
+    "markAllAsRead": "Marcar todo como leído",
+    "clearAll": "Borrar todo",
+    "noNotifications": "Sin notificaciones",
+    "taskOverdue": "Tarea Atrasada",
+    "taskToday": "Tarea para Hoy",
+    "taskTomorrow": "Tarea para Mañana"
+  },
+  "settings": {
+    "title": "Configuración",
+    "appearance": {
+      "title": "Apariencia",
+      "darkMode": "Modo Oscuro",
+      "darkModeDescription": "El modo oscuro reduce el brillo de la pantalla y puede ayudar a reducir la fatiga visual"
+    },
+    "notifications": {
+      "title": "Notificaciones",
+      "enable": "Activar Notificaciones",
+      "sound": "Sonido de Notificación",
+      "desktop": "Notificaciones de Escritorio"
+    },
+    "language": {
+      "title": "Idioma",
+      "select": "Seleccionar idioma",
+      "pt-BR": "Português (Brasil)",
+      "en-US": "English (US)",
+      "es": "Español"
+    },
+    "security": {
+      "title": "Seguridad",
+      "autoLock": "Bloqueo Automático",
+      "lockTimeout": "Tiempo de Bloqueo",
+      "minutes": "minutos",
+      "hour": "hora"
+    }
+  },
+  "user": {
+    "profile": "Mi Perfil",
+    "changePassword": "Cambiar Contraseña",
+    "logout": "Cerrar Sesión",
+    "editProfile": "Editar Perfil",
+    "name": "Nombre",
+    "email": "Correo",
+    "role": "Cargo",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "currentPassword": "Contraseña Actual",
+    "newPassword": "Nueva Contraseña",
+    "confirmPassword": "Confirmar Nueva Contraseña",
+    "clickToUpload": "Haz clic para subir una nueva foto",
+    "uploadSuccess": "Foto actualizada con éxito",
+    "uploadError": "Error al subir la foto. Inténtalo de nuevo."
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "sidebar": {
+    "hr_dashboard": "HR Dashboard",
+    "employees": "Employees",
+    "vacations": "Vacations",
+    "time_entries": "Time Entries",
+    "benefits": "Benefits",
+    "documents": "Documents"
+  },
+  "settings": {
+    "title": "Settings",
+    "branding": {
+      "title": "Branding",
+      "logo": {
+        "title": "Logo",
+        "description": "Upload your company logo. We recommend using a PNG image with a transparent background.",
+        "upload": "Upload",
+        "remove": "Remove",
+        "success": "Logo updated successfully",
+        "error": {
+          "size": "File must be less than 2MB",
+          "type": "File must be PNG or JPEG",
+          "upload": "Error uploading logo"
+        }
+      }
+    },
+    "theme": {
+      "title": "Theme",
+      "mode": {
+        "light": "Light",
+        "dark": "Dark",
+        "system": "System"
+      }
+    },
+    "notifications": {
+      "title": "Notifications",
+      "email": "Email",
+      "push": "Push",
+      "sms": "SMS"
+    },
+    "language": {
+      "title": "Language",
+      "pt_BR": "Portuguese (Brazil)",
+      "en": "English"
+    },
+    "security": {
+      "title": "Security",
+      "password": {
+        "title": "Password",
+        "change": "Change password"
+      },
+      "two_factor": {
+        "title": "Two-factor authentication",
+        "enable": "Enable",
+        "disable": "Disable"
+      }
+    }
+  },
+  "documents": {
+    "title": "Documents",
+    "list": "Documents List",
+    "add": "Add Document",
+    "edit": "Edit Document",
+    "delete": "Delete Document",
+    "delete_confirm": "Are you sure you want to delete this document?",
+    "download": "Download Document",
+    "employee": "Employee",
+    "type": "Type",
+    "file_size": "Size",
+    "expiry_date": "Expiry Date",
+    "created_at": "Created At",
+    "updated_at": "Updated At",
+    "description": "Description",
+    "types": {
+      "contract": "Contract",
+      "id": "ID Document",
+      "resume": "Resume",
+      "certificate": "Certificate",
+      "other": "Other"
+    },
+    "upload": {
+      "title": "Document Upload",
+      "drag_drop": "Drag and drop files here or click to select",
+      "max_size": "Maximum size: 10MB",
+      "success": "Document uploaded successfully",
+      "error": "Error uploading document"
+    }
+  }
+}

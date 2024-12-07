@@ -1,0 +1,355 @@
+{
+  "login": {
+    "title": "Acesso Administrativo",
+    "email": "E-mail",
+    "password": "Senha",
+    "submit": "Entrar",
+    "invalidCredentials": "E-mail ou senha inválidos",
+    "error": "Erro ao fazer login. Tente novamente."
+  },
+  "dashboard": {
+    "title": "Painel",
+    "welcome": "Bem-vindo ao CRM Moderno"
+  },
+  "menu": {
+    "dashboard": "Painel",
+    "contacts": "Contatos",
+    "deals": "Negócios",
+    "orders": "Pedidos",
+    "tasks": "Tarefas",
+    "analytics": "Análises",
+    "financial": "Financeiro"
+  },
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "contacts": "Contatos",
+    "deals": "Negócios",
+    "orders": "Pedidos",
+    "tasks": "Tarefas",
+    "calendar": "Calendário",
+    "reports": "Relatórios",
+    "hr": "Recursos Humanos",
+    "hr_employees": "Funcionários",
+    "hr_vacations": "Férias",
+    "hr_time_entries": "Ponto",
+    "hr_benefits": "Benefícios",
+    "hr_documents": "Documentos",
+    "qr_code": "QR Code",
+    "human_resources": "Recursos Humanos",
+    "hr_dashboard": "Dashboard RH",
+    "employees": "Funcionários",
+    "vacations": "Férias",
+    "time_entries": "Ponto",
+    "benefits": "Benefícios",
+    "documents": "Documentos"
+  },
+  "hr_dashboard": {
+    "title": "Dashboard RH",
+    "totalEmployees": "Total de Funcionários",
+    "pendingVacations": "Férias Pendentes",
+    "todayTimeEntries": "Registros de Hoje",
+    "activeBenefits": "Benefícios Ativos",
+    "employeesOnVacation": "Funcionários de Férias",
+    "recentTimeEntries": "Registros Recentes",
+    "from": "de",
+    "to": "até",
+    "timeIn": "Entrada",
+    "timeOut": "Saída",
+    "noEmployeesOnVacation": "Nenhum funcionário de férias",
+    "noTimeEntries": "Nenhum registro de ponto"
+  },
+  "notifications": {
+    "title": "Notificações",
+    "markAllAsRead": "Marcar todas como lidas",
+    "clearAll": "Limpar todas",
+    "noNotifications": "Nenhuma notificação",
+    "taskOverdue": "Tarefa Atrasada",
+    "taskToday": "Tarefa para Hoje",
+    "taskTomorrow": "Tarefa para Amanhã"
+  },
+  "settings": {
+    "title": "Configurações",
+    "branding": {
+      "title": "Marca",
+      "logo": {
+        "title": "Logotipo",
+        "description": "Faça upload do logotipo da sua empresa. Recomendamos usar uma imagem PNG com fundo transparente.",
+        "upload": "Fazer upload",
+        "remove": "Remover",
+        "success": "Logotipo atualizado com sucesso",
+        "error": {
+          "size": "O arquivo deve ter no máximo 2MB",
+          "type": "O arquivo deve ser PNG ou JPEG",
+          "upload": "Erro ao fazer upload do logotipo"
+        }
+      }
+    },
+    "appearance": {
+      "title": "Aparência",
+      "darkMode": "Modo Escuro",
+      "darkModeDescription": "O modo escuro reduz o brilho da tela e pode ajudar a reduzir o cansaço visual"
+    },
+    "notifications": {
+      "title": "Notificações",
+      "enable": "Ativar Notificações",
+      "sound": "Som de Notificação",
+      "desktop": "Notificações na Área de Trabalho"
+    },
+    "language": {
+      "title": "Idioma",
+      "select": "Selecione o idioma",
+      "pt-BR": "Português (Brasil)",
+      "en-US": "English (US)",
+      "es": "Español"
+    },
+    "security": {
+      "title": "Segurança",
+      "autoLock": "Bloqueio Automático",
+      "lockTimeout": "Tempo para Bloqueio",
+      "minutes": "minutos",
+      "hour": "hora"
+    },
+    "theme": {
+      "title": "Tema",
+      "mode": {
+        "light": "Claro",
+        "dark": "Escuro",
+        "system": "Sistema"
+      }
+    },
+    "notifications": {
+      "title": "Notificações",
+      "email": "E-mail",
+      "push": "Push",
+      "sms": "SMS"
+    },
+    "language": {
+      "title": "Idioma",
+      "pt_BR": "Português (Brasil)",
+      "en": "English"
+    },
+    "security": {
+      "title": "Segurança",
+      "password": {
+        "title": "Senha",
+        "change": "Alterar senha"
+      },
+      "two_factor": {
+        "title": "Autenticação em dois fatores",
+        "enable": "Habilitar",
+        "disable": "Desabilitar"
+      }
+    }
+  },
+  "user": {
+    "profile": "Meu Perfil",
+    "changePassword": "Alterar Senha",
+    "logout": "Sair",
+    "editProfile": "Editar Perfil",
+    "name": "Nome",
+    "email": "E-mail",
+    "role": "Cargo",
+    "save": "Salvar",
+    "cancel": "Cancelar",
+    "currentPassword": "Senha Atual",
+    "newPassword": "Nova Senha",
+    "confirmPassword": "Confirmar Nova Senha",
+    "clickToUpload": "Clique para fazer upload de uma nova foto",
+    "uploadSuccess": "Foto atualizada com sucesso",
+    "uploadError": "Erro ao fazer upload da foto. Tente novamente."
+  },
+  "qrcode": {
+    "title": "Gerador de QR Code",
+    "description": "Descrição",
+    "content": "Conteúdo do QR Code",
+    "downloadPNG": "Baixar PNG",
+    "downloadPDF": "Baixar PDF",
+    "print": "Imprimir",
+    "generatingPDF": "Gerando PDF..."
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "totalEmployees": "Total de Funcionários",
+    "pendingVacations": "Férias Pendentes",
+    "todayTimeEntries": "Registros de Hoje",
+    "activeBenefits": "Benefícios Ativos"
+  },
+  "employees": {
+    "title": "Funcionários",
+    "list": "Lista de Funcionários",
+    "add": "Adicionar Funcionário",
+    "edit": "Editar Funcionário",
+    "delete": "Excluir Funcionário",
+    "delete_confirm": "Tem certeza que deseja excluir este funcionário?"
+  },
+  "vacations": {
+    "title": "Férias",
+    "list": "Lista de Férias",
+    "add": "Solicitar Férias",
+    "edit": "Editar Férias",
+    "delete": "Excluir Férias",
+    "delete_confirm": "Tem certeza que deseja excluir este período de férias?"
+  },
+  "time_entries": {
+    "title": "Ponto",
+    "list": "Lista de Registros",
+    "add": "Registrar Ponto",
+    "edit": "Editar Registro",
+    "delete": "Excluir Registro",
+    "delete_confirm": "Tem certeza que deseja excluir este registro de ponto?"
+  },
+  "benefits": {
+    "title": "Benefícios",
+    "list": "Lista de Benefícios",
+    "add": "Adicionar Benefício",
+    "edit": "Editar Benefício",
+    "delete": "Excluir Benefício",
+    "delete_confirm": "Tem certeza que deseja excluir este benefício?"
+  },
+  "fields": {
+    "employee": "Funcionário",
+    "title": "Título",
+    "type": "Tipo",
+    "size": "Tamanho",
+    "upload_date": "Data de Upload",
+    "expiry_date": "Data de Expiração"
+  },
+  "status": {
+    "active": "Ativo",
+    "inactive": "Inativo",
+    "pending": "Pendente",
+    "approved": "Aprovado",
+    "rejected": "Rejeitado"
+  },
+  "vacation_types": {
+    "vacation": "Férias",
+    "sick_leave": "Licença Médica",
+    "personal_leave": "Licença Pessoal",
+    "maternity_leave": "Licença Maternidade",
+    "paternity_leave": "Licença Paternidade",
+    "other": "Outro"
+  },
+  "benefit_types": {
+    "health": "Plano de Saúde",
+    "dental": "Plano Odontológico",
+    "life": "Seguro de Vida",
+    "meal": "Vale Refeição",
+    "food": "Vale Alimentação",
+    "transport": "Vale Transporte",
+    "education": "Auxílio Educação",
+    "gym": "Academia",
+    "other": "Outro"
+  },
+  "document_types": {
+    "contract": "Contrato",
+    "id": "Documento de Identificação",
+    "resume": "Currículo",
+    "certification": "Certificação",
+    "training": "Treinamento",
+    "evaluation": "Avaliação",
+    "other": "Outro"
+  },
+  "documents": {
+    "title": "Documentos do Funcionário",
+    "add": "Adicionar Novo Documento",
+    "add_title": "Adicionar Documento",
+    "edit_title": "Editar Documento",
+    "list": "Lista de Documentos",
+    "edit": "Editar Documento",
+    "delete": "Excluir Documento",
+    "delete_confirm": "Tem certeza que deseja excluir este documento?",
+    "delete_success": "Documento excluído com sucesso",
+    "delete_error": "Erro ao excluir documento",
+    "download": "Baixar Documento",
+    "download_error": "Erro ao baixar documento",
+    "employee": "Funcionário",
+    "type": "Tipo",
+    "file_size": "Tamanho",
+    "expiry_date": "Data de Expiração",
+    "created_at": "Criado em",
+    "updated_at": "Atualizado em",
+    "description": "Descrição",
+    "upload": {
+      "title": "Upload de Documento",
+      "drag_drop": "Arraste e solte arquivos aqui ou clique para selecionar",
+      "max_size": "Tamanho máximo: 10MB",
+      "success": "Documento enviado com sucesso",
+      "error": "Erro ao enviar documento"
+    }
+  },
+  "validation": {
+    "employee_required": "Funcionário é obrigatório",
+    "file_required": "Arquivo é obrigatório",
+    "title_required": "Título é obrigatório"
+  },
+  "common": {
+    "loading": "Carregando...",
+    "error_occurred": "Ocorreu um erro",
+    "actions": "Ações",
+    "save": "Salvar",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "delete": "Excluir",
+    "edit": "Editar",
+    "no_records": "Nenhum registro encontrado",
+    "create": "Criar",
+    "close": "Fechar",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "refresh": "Atualizar",
+    "back": "Voltar",
+    "next": "Próximo",
+    "previous": "Anterior",
+    "download": "Baixar"
+  },
+  "calendar": {
+    "title": "Calendário",
+    "new_event": "Novo Evento",
+    "edit_event": "Editar Evento",
+    "event_title": "Título do Evento",
+    "start_date": "Data de Início",
+    "end_date": "Data de Término",
+    "event_type": "Tipo de Evento",
+    "description": "Descrição",
+    "type_meeting": "Reunião",
+    "type_meet_meeting": "Reunião no Google Meet",
+    "type_task": "Tarefa",
+    "type_reminder": "Lembrete",
+    "delete": "Excluir",
+    "next": "Próximo",
+    "previous": "Anterior",
+    "today": "Hoje",
+    "month": "Mês",
+    "week": "Semana",
+    "day": "Dia",
+    "agenda": "Agenda",
+    "all_day": "Dia inteiro",
+    "date": "Data",
+    "time": "Hora",
+    "event": "Evento",
+    "no_events": "Não há eventos neste período",
+    "show_more": "+ ({0}) eventos",
+    "meet_link": "Link do Google Meet",
+    "enter_meet_link": "Cole o link do Meet aqui",
+    "copy_link": "Copiar",
+    "create_meet": "Criar Meet",
+    "join_meet": "Entrar",
+    "meet_link": "Link da reunião",
+    "join_meet": "Entrar na reunião",
+    "copy_link": "Copiar link"
+  },
+  "reports": {
+    "title": "Relatórios",
+    "export_pdf": "Exportar PDF",
+    "export_excel": "Exportar Excel",
+    "start_date": "Data Inicial",
+    "end_date": "Data Final",
+    "type": "Tipo",
+    "type_all": "Todos",
+    "type_sales": "Vendas",
+    "type_leads": "Leads",
+    "sales_by_month": "Vendas por Mês",
+    "leads_by_source": "Leads por Fonte",
+    "sales": "Vendas"
+  }
+}

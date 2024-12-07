@@ -1,0 +1,77 @@
+{
+  "login": {
+    "title": "Administrative Access",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Sign In",
+    "invalidCredentials": "Invalid email or password",
+    "error": "Error signing in. Please try again."
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome to Modern CRM"
+  },
+  "menu": {
+    "dashboard": "Dashboard",
+    "contacts": "Contacts",
+    "deals": "Deals",
+    "orders": "Orders",
+    "tasks": "Tasks",
+    "analytics": "Analytics",
+    "financial": "Financial"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "markAllAsRead": "Mark all as read",
+    "clearAll": "Clear all",
+    "noNotifications": "No notifications",
+    "taskOverdue": "Task Overdue",
+    "taskToday": "Task for Today",
+    "taskTomorrow": "Task for Tomorrow"
+  },
+  "settings": {
+    "title": "Settings",
+    "appearance": {
+      "title": "Appearance",
+      "darkMode": "Dark Mode",
+      "darkModeDescription": "Dark mode reduces screen brightness and can help reduce eye strain"
+    },
+    "notifications": {
+      "title": "Notifications",
+      "enable": "Enable Notifications",
+      "sound": "Notification Sound",
+      "desktop": "Desktop Notifications"
+    },
+    "language": {
+      "title": "Language",
+      "select": "Select language",
+      "pt-BR": "Português (Brasil)",
+      "en-US": "English (US)",
+      "es": "Español"
+    },
+    "security": {
+      "title": "Security",
+      "autoLock": "Auto Lock",
+      "lockTimeout": "Lock Timeout",
+      "minutes": "minutes",
+      "hour": "hour"
+    }
+  },
+  "user": {
+    "profile": "My Profile",
+    "changePassword": "Change Password",
+    "logout": "Logout",
+    "editProfile": "Edit Profile",
+    "name": "Name",
+    "email": "Email",
+    "role": "Role",
+    "save": "Save",
+    "cancel": "Cancel",
+    "currentPassword": "Current Password",
+    "newPassword": "New Password",
+    "confirmPassword": "Confirm New Password",
+    "clickToUpload": "Click to upload a new photo",
+    "uploadSuccess": "Photo updated successfully",
+    "uploadError": "Error uploading photo. Please try again."
+  }
+}
